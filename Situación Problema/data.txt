@@ -1,0 +1,21 @@
+p,20191245,The Lion King,118,drama
+c,20160150-S02E09,Chapter Nine: The Gate,62,accion,Stranger Things T2,9
+c,T1-TBYS01,El nombre del juego,40,accion,The boys,1
+c,T1-TBYS02,Cherry,42,accion,The boys,2
+c,S37BKBD,Piloto,41,Crimen,Breaking bad,1
+p,P25-TGMS,The greatest showman,140,musical
+p,P27-TGBK,The green book,210,drama
+p,20191245,The Lion King,118,drama
+p,A2302344,Sin límites,200,accion
+p,AVSEGS933,Avengers: Endgame,320,ciencia ficcion
+c,VJSRBN574,Ya era hora,48,accion,Invencible,1
+c,BKD5BM-4B,Aquí vamos,44,accion,Invencible,2
+c,FR1995-T1,El intoxicado,22,comedia,Friends T1,15
+p,FGP1994YS,Forrest Gump,142,drama
+p,JOKP334-Y,The Joker,122,drama
+p,AVS-6BT5H,Who killed captain Alex,74,accion
+p,12874124A,Never Back Down,127,accion
+p,JGV-124512,Avatar,150,accion
+c,XDJAJAJA,Internment,43,accion,The Walking Dead T4,5
+c,LFR-2020,BlueBallz,56,drama,Lucifer T5,6
+p,AZR-21412,Bay Watch,117,drama
